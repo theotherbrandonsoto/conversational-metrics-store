@@ -1,0 +1,14 @@
+# Credentials
+.env
+kaggle.json
+
+# Data files
+data/
+
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
