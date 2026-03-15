@@ -4,6 +4,7 @@ A production-style metrics store built on the modern data stack — demonstratin
 
 **Author:** theotherbrandonsoto &nbsp;|&nbsp; [GitHub](https://github.com/theotherbrandonsoto) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/hirebrandonsoto/)
 
+*Built with assistance from Claude.*
 ---
 
 ## 📌 Executive Summary
